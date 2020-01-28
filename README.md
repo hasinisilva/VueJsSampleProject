@@ -15,7 +15,7 @@ cd test-project
 ## add component library
 vue add vuetify
 
-## sass loader and node-sass is required to working with vuetify
+## sass loader and node-sass are required to working with vuetify
 npm install sass-loader node-sass webpack --save-dev
 
 ## add vue router
